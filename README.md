@@ -5,7 +5,7 @@ twitter next
 
 - <b>Animated Gif <b>
 
-- <img src="https://github.com/cre81ve/Cktwitter/blob/master/twitterredux.gif" />
+- <img src="https://github.com/cre81ve/TwitterNext/blob/master/twitterredux.gif" />
 
 <b>Items Done</b>
 ================
